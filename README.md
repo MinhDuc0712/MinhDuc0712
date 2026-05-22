@@ -92,11 +92,7 @@
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=minhduc03&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=minhduc03&redirect=true)
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=minhduc03&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=minhduc03&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
+
 </div>
 
 ---
