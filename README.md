@@ -17,7 +17,6 @@
 ## 🧑‍💻 About Me
 
 - 🌐 Building full-stack web applications with **PHP** & **JavaScript**
-- 🎓 Final year student working on **Luận văn tốt nghiệp (LVTN)**
 - 🗄 Working with **MySQL & RESTful APIs**
 - 🛒 Passionate about **eCommerce** and **task management** systems
 - 🎯 Goal: Become a skilled **Fullstack Web Developer**
@@ -85,11 +84,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🎵 Spotify — Now Playing
 
 <div align="center">
 
-![snake](https://github.com/MinhDuc0712/MinhDuc0712/raw/output/github-contribution-grid-snake.svg)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
 
 </div>
 
