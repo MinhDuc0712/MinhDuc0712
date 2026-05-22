@@ -84,27 +84,14 @@
 
 ---
 
-## 🎵 Spotify — Now Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
-
-</div>
-
----
-
 ## 📫 Contact Me
-
+<div align="center">
+  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhduc0712@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinhDuc0712)
 
+</div>
 ---
 
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-**⭐ If you like my projects, consider giving them a star!**
 
 </div>
